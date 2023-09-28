@@ -4,6 +4,5 @@ Each cpp file with a main function in the parent dir compiles into a app executa
 
 To Compile,
 
-  # cmake
-
-  # make
+  $ cmake
+  $ make
